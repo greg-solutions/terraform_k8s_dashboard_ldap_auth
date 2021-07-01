@@ -1,3 +1,5 @@
+# DEPRECATED MOVED TO https://github.com/terraform-iaac/terraform-kubernetes-dashboard-ldap-auth
+
 # Modules for create kubernetes dashboard with LDAP authentication  
 
 ## For enable ldap in dashboard you must have kubernetes-dashboard module with specific ingress annotations:
